@@ -253,33 +253,6 @@ This led to:
 - [ ] Understand why race condition happens
 - [ ] Understand how transaction prevents it
 
-## 📧 Submission
-
-Create a GitHub repository with:
-- `booking_system.py` (main backend code)
-- `index.html` (web interface)
-- `README.md` (this file)
-- `report.pdf` (detailed explanation)
-
-Share the GitHub link via email.
-
-## 🎯 Grading Criteria
-
-1. **Backend Code** (50%)
-   - Working race condition demo
-   - Working transaction protection
-   - Clean, commented code
-
-2. **Explanation** (40%)
-   - Understanding of critical section
-   - Clear explanation of race condition
-   - Correct solution implementation
-
-3. **Demonstration** (10%)
-   - Ability to run and explain code
-   - Understanding of results
-   - Defense during office visit
-
 ## 👨‍💻 Author
 
 Samandar Mirxosilov
